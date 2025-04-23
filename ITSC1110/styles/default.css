@@ -1,0 +1,48 @@
+body {
+    background-color: #5899e2;
+    /* light blue background */
+    color: #171a21;
+    /* dark navy font color */
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 900px;
+    width: 95%;
+    font-size: 150%;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+#classes {
+    list-style-type: circle;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+}
+
+a, a:visiteds {
+    color:#E6E8E6;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #F15025;
+}
